@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: hm-python
+Version: 0.1.0
+Summary: The hypermodern Python project
+Home-page: https://github.com/scastillosanchez/hm-python
+Author: Sebastian Castillo-Sanchez 
+Author-email: scastillosanchez@outlook.com
+License: UNKNOWN
+Description: # hm-python
+        Hypermodern Python tutorial
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0

@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/hm_python/__init__.py
+src/hm_python/console.py
+src/hm_python/wikipedia.py
+src/hm_python.egg-info/PKG-INFO
+src/hm_python.egg-info/SOURCES.txt
+src/hm_python.egg-info/dependency_links.txt
+src/hm_python.egg-info/entry_points.txt
+src/hm_python.egg-info/requires.txt
+src/hm_python.egg-info/top_level.txt
